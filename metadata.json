@@ -1,0 +1,6 @@
+{
+  "name": "EnviroTech Mold Pros - Peterborough",
+  "description": "Professional mold removal, mold inspection, and water damage cleanup in Peterborough, Ontario and surrounding regions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
